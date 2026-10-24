@@ -1,0 +1,15 @@
+ Start.
+Read N. Repeat until N is between 5 and 12 inclusive.
+Read N array elements. Repeat each input until the value is between 0 and 1000 inclusive.
+display the original array.
+Calculate the sum, average, minimum, and maximum of the array.
+Find the second-largest distinct value by ignoring elements equal to the maximum. If no second-largest distinct value exists, display a message.
+Count local peaks by checking whether each interior element is greater than both its immediate neighbours.
+Find the longest strictly increasing contiguous run by tracking the current run and the longest run.
+Read integer K. Calculate shift = K % N. If shift is negative, add N to shift.
+Rotate the array right shift times using a temporary variable. Do not use a second array.
+Display the rotated array.
+Set R = 76 and calculate D = (R % 9) + 1 = 5.
+Count the elements in the rotated array that are exactly divisible by D.
+Display D and the count of divisible elements.
+Stop.
